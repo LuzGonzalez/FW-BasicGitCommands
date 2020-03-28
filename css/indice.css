@@ -1,0 +1,32 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background: #77A1D3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+  }
+
+  .titulo{
+    color:#FFF;
+    text-align: center;
+    font-size: 24px;
+
+  }
+
+  .subtitulo{
+      color:#FFF;
+      font-size: 18px;
+      margin-left: 30px;
+  }
+  
+  .lista li a{
+    text-decoration: none;  
+    background: none;
+    color: #FFF;
+  }
+
+  .imagen{
+      width: 300px;
+      background: none;
+  }
